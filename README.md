@@ -1,5 +1,16 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/wOaloQ5c)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19864986)
+# Some disclaimers
+
+This project is in Portuguese (made in Natal, Brazil), but its interface is entirely in English (some noting that may be found in the code is in Portuguese, but they're just for education reasons, you can just ignore it). 
+
+Some upgrades are to be done here. One of them is to show up all the STRs in the DNA to be tested file, seeking for all of its groups of strings that are repeating and adjoining on the sequence, **in case of no match**. Maybe, I'll provide a version of the interface in Portuguese too. 
+
+To make tests, you just need to go to ```data/respostas.txt``` and get one of the test lines, and call the program, pasting it on the terminal. You're free to testing with no use of this shortcut. 
+
+Below, the whole project README, provided by teacher [@danilocurvelo](https://github.com/danilocurvelo), with all the requirements demanded. 
+
+
 # DNA Profiler
 
 # 1. Introdução
