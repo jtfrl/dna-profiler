@@ -59,7 +59,7 @@ int main(int argc, char* argv[]){
 
     try{
 
-        UI::printProgramHeader("JEFFERSON, MÁRCIO & CARLOS");
+        UI::printProgramHeader("JEFFERSON");
         UI::showLoadingAnimation("DNA database file [" + dbFile + "]");
         UI::showLoadingAnimation("Allegedly unknown DNA sequence file [" + seqFile + "]");
         UI::showProgressBar("Searching the database for a match...");
